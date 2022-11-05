@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhi-Codehub
-- 👀 I’m interested in Android Development, DSA, Open Source
-- 🌱 I’m currently learning Data Structure and Algorithms in Java
-- 💞️ I’m looking to collaborate on Open source Projects and Andriod Development projects 
+- 👋 Hi, I’m Abhishek Aggarwal 
+- 👀 I’m interested in Mobile Application Development, DSA, Open Source, Open CV, Tensorflow
+- 🌱 I’m currently learning Data Structure and Algorithms in Java, Backend, OpenCV
+- 💞️ I’m looking to collaborate in projects of Open source, Andriod Development and Open CV.
 - 📫 How to reach me ...
 https://www.linkedin.com/in/abhishek-aggarwal-1a7094210
 
